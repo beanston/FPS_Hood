@@ -1,0 +1,18 @@
+# Visual Studio files
+.vs
+*.sln
+*.suo
+*.opensdf
+*.sdf
+
+# Unreal Engine Temporary Folders
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Local configuration files
+Config/NoRedist/
+Config/*.ini
+!Config/Default*.ini
