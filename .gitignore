@@ -16,3 +16,5 @@ Saved/
 Config/NoRedist/
 Config/*.ini
 !Config/Default*.ini
+
+*.bat
