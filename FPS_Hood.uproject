@@ -46,6 +46,10 @@
 				"Android",
 				"IOS"
 			]
+		},
+		{
+			"Name": "Landmass",
+			"Enabled": true
 		}
 	]
 }
