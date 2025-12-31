@@ -1,0 +1,7 @@
+Unreal To-do's:
+
+-finish landscape (grass, water, landscape materials, polish) (make run better)
+-first person camera better
+-add guns
+-movement
+-house
